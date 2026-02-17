@@ -1,4 +1,4 @@
-# Hi there, I'm 4cr0nym! 👋
+# Hi there, I'm Adrian! 👋
 
 👨‍💻 About Me
 I am an IT enthusiast passionate about automation and process optimization. In my current role, I focus on transforming repetitive daily tasks into efficient, automated workflows using native system tools.
